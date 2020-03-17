@@ -1,1 +1,3 @@
 # code_nrm
+
+Learning
